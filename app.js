@@ -1,4 +1,4 @@
-const API_KEY = 'd784ede1-781f-4611-809c-a1ec0c76a6c9';
+const API_KEY = 'YOUR_OPENAI_API_KEY';
 const submitIcon = document.querySelector('#submit-icon');
 const inputElement = document.querySelector('input');
 const imageSection = document.querySelector('.images-section');
